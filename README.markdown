@@ -13,7 +13,7 @@ by Caleb Troughton (aka imakewebthings) bundled up into
 a Slide Show (S9) template pack lets you author your slides
 in a wiki-style markup language (that is, Markdown or Textile) plus
 lets you use text filters and helpers for adding comments, macros,
-includes, syntax highlighters and much more.
+includes, syntax highlighters with http://alexgorbatchev.com/SyntaxHighlighter and much more.
 
 Note, the deck.js template pack is configured to use
 the following headers in `slides.html.erb`:

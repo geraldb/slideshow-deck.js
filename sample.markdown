@@ -39,6 +39,15 @@ Slides are just HTML elements with a class of `slide`.
       </ol>
     </section>
 
+## Syntax highlighting
+
+We are using http://alexgorbatchev.com/SyntaxHighlighter
+
+Example:
+
+<% code do %>
+  # some random ruby code
+<% end %>
 
 ## Themes
 
